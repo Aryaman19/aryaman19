@@ -23,8 +23,6 @@ I am a software engineer at I'm Beside You Inc, a Japan-based startup, I have ga
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aryaman19&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aryaman19&icon=0&color=9)](https://visitcount.itsvg.in)
