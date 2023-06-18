@@ -2,9 +2,13 @@
 👋 Ahoy there, fellow coders and curious minds! Welcome to my electrifying GitHub realm! ⚡️👩‍💻
 
 👨‍💻 Software engineer at I'm Beside You Inc 🏢
+
 📅 Joined as full-time employee in July 2022 🚀
+
 🌟 Experienced in frontend and backend development, data engineering, and devOps 🎯
+
 🎓 Bachelor's degree from IIT (ISM) Dhanbad 🎓
+
 🏊‍♂️ Enjoys swimming 🏋️‍♂️, hitting the gym, and rock climbing 🧗‍♂️
 
 
