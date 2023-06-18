@@ -1,7 +1,11 @@
+# 💫 About Me:
 👋 Ahoy there, fellow coders and curious minds! Welcome to my electrifying GitHub realm! ⚡️👩‍💻
 
-# 💫 About Me:
-I am a software engineer at I'm Beside You Inc, a Japan-based startup, I have gained valuable experience since joining as a full-time employee in July 2022. I have successfully taken on various roles, including frontend and backend development, data engineering, and in DevOps. I hold a bachelor's degree from IIT (ISM) Dhanbad. Beyond my professional pursuits, I find enjoyment in swimming, going to the gym, and rock climbing.
+👨‍💻 Software engineer at I'm Beside You Inc 🏢
+📅 Joined as full-time employee in July 2022 🚀
+🌟 Experienced in frontend and backend development, data engineering, and devOps 🎯
+🎓 Bachelor's degree from IIT (ISM) Dhanbad 🎓
+🏊‍♂️ Enjoys swimming 🏋️‍♂️, hitting the gym, and rock climbing 🧗‍♂️
 
 
 ## 🌐 Socials:
